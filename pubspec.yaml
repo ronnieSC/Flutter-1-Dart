@@ -1,0 +1,5 @@
+name: curso_dart
+environment:
+  sdk: '^3.0.0'
+dependencies:
+  path: ^1.8.3
